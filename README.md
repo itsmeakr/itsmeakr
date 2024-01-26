@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeakr&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeakr" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Using React**
-
 - 🌱 I’m currently learning **MERN**
 
 - 📝 I regularly write articles on [https://medium.com/@karpita56](https://medium.com/@karpita56)
