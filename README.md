@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Kumari</h1>
-<h3 align="center">A passionate Software Engineer from India, And have done internships in java development and web development</h3>
+<h3 align="center">A passionate Software Engineer from India, and currently working as java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeakr&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeakr" /> </p>
 
